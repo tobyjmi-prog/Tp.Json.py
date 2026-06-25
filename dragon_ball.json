@@ -1,0 +1,73 @@
+[
+    {
+        "nombre": "Goku",
+        "raza": "Saiyajin",
+        "nivel_poder": 9500,
+        "planeta": "Tierra",
+        "edad": 47,
+        "alineacion": "Heroe",
+        "transformaciones": [
+            "Super Saiyajin",
+            "Super Saiyajin 2",
+            "Super Saiyajin 3",
+            "Super Saiyajin Dios",
+            "Ultra Instinto"
+        ],
+        "tecnicas": [
+            "Kamehameha",
+            "Genkidama",
+            "Kaioken"
+        ]
+    },
+    {
+        "nombre": "Vegeta",
+        "raza": "Saiyajin",
+        "nivel_poder": 9300,
+        "planeta": "Vegeta",
+        "edad": 52,
+        "alineacion": "Heroe",
+        "transformaciones": [
+            "Super Saiyajin",
+            "Super Saiyajin 2",
+            "Super Saiyajin Blue"
+        ],
+        "tecnicas": [
+            "Final Flash",
+            "Big Bang Attack",
+            "Galick Gun"
+        ]
+    },
+    {
+        "nombre": "Gohan",
+        "raza": "Hibrido",
+        "nivel_poder": 8900,
+        "planeta": "Tierra",
+        "edad": 27,
+        "alineacion": "Heroe",
+        "transformaciones": [
+            "Super Saiyajin",
+            "Super Saiyajin 2",
+            "Beast"
+        ],
+        "tecnicas": [
+            "Masenko",
+            "Kamehameha"
+        ]
+    },
+    {
+        "nombre": "Piccolo",
+        "raza": "Namekiano",
+        "nivel_poder": 8500,
+        "planeta": "Namek",
+        "edad": 32,
+        "alineacion": "Heroe",
+        "transformaciones": [
+            "Orange Piccolo",
+            "Poder Despertado"
+        ],
+        "tecnicas": [
+            "Makankosappo",
+            "Masenko"
+        ]
+    }
+]
